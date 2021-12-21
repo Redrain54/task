@@ -29,7 +29,7 @@
 a{
   text-decoration: none;
 }
-.nav_item:hover,nav_item active{
+.nav_item:hover{
   border-radius: 10px; background-color: #3b454b; 
   height: 18px;
 }
